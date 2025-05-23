@@ -1,4 +1,5 @@
-node_modules
+# Node
+node_modules/
 
 # Output
 .output
@@ -7,6 +8,7 @@ node_modules
 .wrangler
 /.svelte-kit
 /build
+/dist
 
 # OS
 .DS_Store
@@ -21,3 +23,35 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Firebase
+.firebase/
+firestore-debug.log
+firebase-debug.log
+firebase-debug.*
+firestore.indexes.json
+.firebaserc
+
+# Git
+*.orig
+*.lock
+
+# Editor / IDE
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary
+*.swp
+*~
+
+# Testing / Coverage
+coverage/
+*.lcov
