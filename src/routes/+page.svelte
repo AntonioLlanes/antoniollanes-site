@@ -187,7 +187,7 @@
 
 <style>
   :global(html) {
-    background-color: white;
+    background-color: #fef9c3;
     scroll-behavior: smooth;
   }
   :global(body) {

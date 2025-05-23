@@ -2,11 +2,10 @@
 
 Welcome to the official portfolio site of Antonio Llanes — a full-stack developer, creative technologist, and Miami-raised Cuban-American with a flair for expressive, user-driven digital experiences.
 
-![screenshot](./screenshot.png)
 
 ## 💡 About This Project
 
-This portfolio was built to showcase Antonio's personal and professional work, celebrate his aesthetic-driven design sensibilities, and highlight his technical range — from playful frontend animations to robust backend integrations.
+This portfolio was built to showcase my personal and professional work, celebrate his aesthetic-driven design sensibilities, and highlight his technical range — from playful frontend animations to robust backend integrations.
 
 Designed for charm. Built for performance.
 
@@ -35,7 +34,7 @@ Designed for charm. Built for performance.
 - Custom fonts and ombré transitions
 - Elegant project cards with external links
 - PDF résumé preview & download
-- Light pink global theme with creative flair
+- Light yellow global theme with creative flair
 
 ## 🧠 Skills Highlighted
 
