@@ -141,7 +141,7 @@
         </a>
 
         <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/in/antoniollanes" target="_blank" class="flex flex-col items-center hover:text-orange-500 transition">
+        <a href="https://www.linkedin.com/in/antoniojllanes" target="_blank" class="flex flex-col items-center hover:text-orange-500 transition">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 mb-1" fill="currentColor" viewBox="0 0 24 24">
             <path d="M19 0h-14a5 5 0 00-5 5v14a5 5 0 005 5h14a5 5 0 005-5v-14a5 5 0 00-5-5zm-11.8 20h-3v-11h3v11zm-1.5-12.3c-1 0-1.6-.8-1.6-1.6s.6-1.7 1.6-1.7 1.6.7 1.6 1.6-.7 1.7-1.6 1.7zm14.3 12.3h-3v-5.4c0-1.3 0-2.9-1.8-2.9s-2 1.4-2 2.8v5.5h-3v-11h2.9v1.5h.1a3.2 3.2 0 012.8-1.6c3 0 3.6 2 3.6 4.7v6.4z"/>
           </svg>
