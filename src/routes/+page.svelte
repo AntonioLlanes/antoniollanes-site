@@ -52,7 +52,7 @@
 <section class="h-16 w-full bg-gradient-to-b from-white to-yellow-100"></section>
 
 <!-- About Section -->
-<section class="px-8 py-16 max-w-3xl mx-auto bg-yellow-100 font-sans">
+<section class="px-8 py-16 w-full mx-auto bg-yellow-100 font-sans">
   <div class="fade-section opacity-0 translate-y-6 transition-all duration-1000 p-6">
     <h2 class="text-4xl font-bold text-black mb-4 text-center font-serif">About Me</h2>
     <p class="text-base leading-relaxed text-black text-center">
@@ -68,7 +68,7 @@
 </section>
 
 <!-- Projects Section -->
-<section class="px-8 py-16 max-w-5xl mx-auto bg-yellow-100 font-sans">
+<section class="px-8 py-16 w-full mx-auto bg-yellow-100 font-sans">
   <div class="fade-section opacity-0 translate-y-6 transition-all duration-1000 p-6">
     <h2 class="text-4xl font-bold mb-8 text-black text-center font-serif">Projects</h2>
     <div class="grid gap-8 md:grid-cols-2">
@@ -90,7 +90,7 @@
 </section>
 
 <!-- Tech Stack Section -->
-<section class="px-8 py-16 max-w-4xl mx-auto bg-yellow-100 font-sans">
+<section class="px-8 py-16 w-full mx-auto bg-yellow-100 font-sans">
   <div class="fade-section opacity-0 translate-y-6 transition-all duration-1000 p-6">
     <h2 class="text-4xl font-bold text-black mb-4 text-center font-serif">Tech Stack</h2>
     <ul class="grid grid-cols-2 md:grid-cols-3 gap-4 text-sm text-black font-mono">
@@ -113,7 +113,7 @@
 </section>
 
 <!-- Resume Section -->
-<section class="px-8 py-16 max-w-5xl mx-auto text-center bg-yellow-100 font-sans">
+<section class="px-8 py-16 w-full mx-auto text-center bg-yellow-100 font-sans">
   <div class="fade-section opacity-0 translate-y-6 transition-all duration-1000 p-6">
     <h2 class="text-4xl font-bold text-black mb-4 font-serif">Résumé</h2>
     <object data="/AJL_resume.pdf" type="application/pdf" width="100%" height="600px" class="rounded-md shadow-lg" aria-label="Antonio Llanes Resume" title="Antonio Llanes Resume PDF">
@@ -128,7 +128,7 @@
 </section>
 
 <!-- Contact Section -->
-<section class="px-8 py-16 max-w-3xl mx-auto text-center bg-yellow-100 font-sans">
+<section class="px-8 py-16 w-full mx-auto text-center bg-yellow-100 font-sans">
   <div class="fade-section opacity-0 translate-y-6 transition-all duration-1000 p-6">
     <h2 class="text-4xl font-bold text-black mb-4 font-serif">Connect with Me!</h2>
     <div class="flex justify-center gap-8 text-black text-lg">
