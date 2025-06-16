@@ -52,8 +52,8 @@
 <section class="h-16 w-full bg-gradient-to-b from-white to-yellow-100"></section>
 
 <!-- About Section -->
-<section class="px-8 py-16 w-full mx-auto bg-yellow-100 font-sans">
-  <div class="fade-section opacity-0 translate-y-6 transition-all duration-1000 p-6">
+<section class="w-full px-8 py-16 bg-yellow-100 font-sans">
+  <div class="max-w-5xl mx-auto fade-section opacity-0 translate-y-6 transition-all duration-1000 p-6">
     <h2 class="text-4xl font-bold text-black mb-4 text-center font-serif">About Me</h2>
     <p class="text-base leading-relaxed text-black text-center">
       I’m Antonio Llanes, a freshly minted Computer Science grad from Florida State University, born and raised in the heart of Miami: Hialeah. I'm a proud first-generation American of Cuban origin who’s been tapping away at keyboards since before I could even form full sentences.
@@ -62,14 +62,14 @@
       Raised by the internet and captivated by both its usefulness and absurd charm, I grew up seeing tech as both a tool and a playground. Whether I’m engineering full-stack web experiences or discovering a clever animation library, I’m always searching for ways to make the digital feel intuitive, expressive, and a little bit delightful.
     </p>
     <p class="text-base leading-relaxed text-black text-center mt-4">
-    Adaptable by nature and obsessed with learning, I thrive in fast-paced environments, collaborate with enthusiasm, and pick up new tools like it's my favorite sport (because it kind of is). I'm ready to build, ship, and shine, let’s make something beautiful together!
+      Adaptable by nature and obsessed with learning, I thrive in fast-paced environments, collaborate with enthusiasm, and pick up new tools like it's my favorite sport (because it kind of is). I'm ready to build, ship, and shine, let’s make something beautiful together!
     </p>
   </div>
 </section>
 
 <!-- Projects Section -->
-<section class="px-8 py-16 w-full mx-auto bg-yellow-100 font-sans">
-  <div class="fade-section opacity-0 translate-y-6 transition-all duration-1000 p-6">
+<section class="w-full px-8 py-16 bg-yellow-100 font-sans">
+  <div class="max-w-5xl mx-auto fade-section opacity-0 translate-y-6 transition-all duration-1000 p-6">
     <h2 class="text-4xl font-bold mb-8 text-black text-center font-serif">Projects</h2>
     <div class="grid gap-8 md:grid-cols-2">
       <div class="bg-white rounded-2xl shadow-lg p-6 border border-yellow-200">
@@ -90,8 +90,8 @@
 </section>
 
 <!-- Tech Stack Section -->
-<section class="px-8 py-16 w-full mx-auto bg-yellow-100 font-sans">
-  <div class="fade-section opacity-0 translate-y-6 transition-all duration-1000 p-6">
+<section class="w-full px-8 py-16 bg-yellow-100 font-sans">
+  <div class="max-w-5xl mx-auto fade-section opacity-0 translate-y-6 transition-all duration-1000 p-6">
     <h2 class="text-4xl font-bold text-black mb-4 text-center font-serif">Tech Stack</h2>
     <ul class="grid grid-cols-2 md:grid-cols-3 gap-4 text-sm text-black font-mono">
       <li>🧠 TypeScript</li>
@@ -113,8 +113,8 @@
 </section>
 
 <!-- Resume Section -->
-<section class="px-8 py-16 w-full mx-auto text-center bg-yellow-100 font-sans">
-  <div class="fade-section opacity-0 translate-y-6 transition-all duration-1000 p-6">
+<section class="w-full px-8 py-16 text-center bg-yellow-100 font-sans">
+  <div class="max-w-5xl mx-auto fade-section opacity-0 translate-y-6 transition-all duration-1000 p-6">
     <h2 class="text-4xl font-bold text-black mb-4 font-serif">Résumé</h2>
     <object data="/AJL_resume.pdf" type="application/pdf" width="100%" height="600px" class="rounded-md shadow-lg" aria-label="Antonio Llanes Resume" title="Antonio Llanes Resume PDF">
       <p class="text-black">Your browser does not support PDFs. <a href="/AJL_resume.pdf" class="underline">Download it here</a>.</p>
@@ -128,8 +128,8 @@
 </section>
 
 <!-- Contact Section -->
-<section class="px-8 py-16 w-full mx-auto text-center bg-yellow-100 font-sans">
-  <div class="fade-section opacity-0 translate-y-6 transition-all duration-1000 p-6">
+<section class="w-full px-8 py-16 text-center bg-yellow-100 font-sans">
+  <div class="max-w-5xl mx-auto fade-section opacity-0 translate-y-6 transition-all duration-1000 p-6">
     <h2 class="text-4xl font-bold text-black mb-4 font-serif">Connect with Me!</h2>
     <div class="flex justify-center gap-8 text-black text-lg">
       <a href="mailto:antoniojllanes@gmail.com" class="hover:text-orange-500 flex items-center gap-2">
@@ -143,7 +143,6 @@
         </svg>
         GitHub
       </a>      
-      
       <a href="https://www.linkedin.com/in/antonio-llanes/" class="hover:text-orange-500 flex items-center gap-2">
         <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 0h-14c-2.8 0-5 2.2-5 5v14c0 2.8 2.2 5 5 5h14c2.8 0 5-2.2 5-5v-14c0-2.8-2.2-5-5-5zM7.1 20.5h-3.4v-11h3.4v11zM5.4 8.3c-1.1 0-2-.9-2-2 0-1.1.9-2 2-2s2 .9 2 2c0 1.1-.9 2-2 2zM20.5 20.5h-3.4v-5.6c0-1.3-.5-2.2-1.7-2.2-.9 0-1.4.6-1.6 1.1-.1.2-.1.5-.1.8v5.9h-3.4s.1-9.6 0-10.6h3.4v1.5c.5-.8 1.3-1.9 3.2-1.9 2.4 0 4.2 1.6 4.2 5.1v5.9z"/></svg>
         LinkedIn
